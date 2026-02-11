@@ -76,3 +76,24 @@ Saved the report, exported screenshots, and documented the project on GitHub wit
 # Deshboard 
 <img width="1427" height="810" alt="Screenshot 2026-02-11 161239" src="https://github.com/user-attachments/assets/a48fb32a-d9a2-4d67-af08-6cae70175e7e" />
 
+
+
+
+📊 Key Insights
+
+Sales Performance: The analysis shows consistent revenue generation with a strong volume of transactions, indicating healthy market demand.
+
+Product & Brand Trends: Certain brands and models significantly outperform others, contributing the highest share of total sales.
+
+Geographic Contribution: Sales are concentrated in a few major cities, highlighting key regional markets for strategic focus.
+
+Time-Based Trends: Monthly analysis reveals clear seasonal patterns and peak sales periods.
+
+Payment Preferences: Digital payment methods (UPI and Cards) dominate, reflecting evolving customer behavior toward cashless transactions.
+
+Customer Satisfaction: Higher customer ratings are closely associated with better sales performance, emphasizing the importance of product quality and service.
+
+🏁 Conclusion
+
+The Motorola Sales Dashboard effectively converts raw transactional data into actionable business intelligence. By leveraging Power BI’s interactive features and KPI-driven design, the dashboard enables stakeholders to monitor performance, identify growth opportunities, and optimize strategic decisions. This project demonstrates strong analytical, data modeling, and visualization skills, supporting a data-driven approach to improving sales and customer experience.
+
