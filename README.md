@@ -1,2 +1,34 @@
-# Data_Analysis__Projects.py
-This project is an interactive Power BI dashboard built to analyze Motorola’s mobile phone sales across India. It provides a complete view of business performance using key metrics such as Total Sales (769M), Total Quantity (19K), Transactions (4K), and Average Sales (40K).
+# Motorola Sales Analytics Dashboard (Power BI)
+Project Objective
+To build an interactive Power BI dashboard to analyze Motorola mobile sales data and present key insights on sales performance, regional trends, customer preferences, and product performance. The objective is to support better business decisions through clear, visual, and data-driven analysis.
+
+## DATASET
+https://github.com/your-username/your-repo-name/blob/main/Day%20-%2030%20-%20Mobile%20Sales%20Data.xlsx
+I have used this dataset to analyze Motorola mobile sales performance, understand customer behavior, identify top-performing brands and models, track regional trends, and study payment methods and customer ratings through an interactive Power BI dashboard.
+
+
+##KPI Questions
+
+What is the total sales revenue generated?
+
+How many units (quantity) have been sold in total?
+
+How many transactions were completed?
+
+What is the average sales value per transaction?
+
+Which brand is performing best in terms of sales?
+
+Which mobile model has the highest sales?
+
+Which city/region contributes the most to total sales?
+
+What is the monthly sales trend? (growth/decline)
+
+Which payment method is used most by customers?
+
+How do customer ratings impact sales performance?
+
+On which day of the week are the most units sold?
+
+What is the top 5 products by sales amount?
