@@ -3,7 +3,8 @@ Project Objective
 To build an interactive Power BI dashboard to analyze Motorola mobile sales data and present key insights on sales performance, regional trends, customer preferences, and product performance. The objective is to support better business decisions through clear, visual, and data-driven analysis.
 
 ## DATASET
--<a href = "https://github.com/your-username/your-repo-name/blob/main/Day%20-%2030%20-%20Mobile%20Sales%20Data.xlsx" >Dataset</a>
+<a href = "https://github.com/your-username/your-repo-name/blob/main/Day%20-%2030%20-%20Mobile%20Sales%20Data.xlsx" >Dataset</a>
+
 I have used this dataset to analyze Motorola mobile sales performance, understand customer behavior, identify top-performing brands and models, track regional trends, and study payment methods and customer ratings through an interactive Power BI dashboard.
 
 
