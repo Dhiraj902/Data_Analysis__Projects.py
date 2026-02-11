@@ -34,7 +34,7 @@ On which day of the week are the most units sold?
 
 What is the top 5 products by sales amount?
 
-Deshboard Intrection <a href = "https://github.com/Dhiraj902/Data_Analysis__Projects.py/blob/main/Screenshot%202026-02-11%20161239.png"> View Deshboard</a>
+Deshboard Intraction <a href = "https://github.com/Dhiraj902/Data_Analysis__Projects.py/blob/main/Screenshot%202026-02-11%20161239.png"> View Deshboard</a>
 
 
 
